@@ -1,0 +1,24 @@
+{
+    "name": "stdakov/csv",
+    "description": "Powerful tool for csv files",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Stanislav Dakov",
+            "email": "st.dakov@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "st.dakov@gmail.com"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dakov\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev"
+}
