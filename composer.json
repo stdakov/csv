@@ -3,6 +3,7 @@
     "description": "Powerful tool for csv files",
     "license": "MIT",
     "type": "library",
+    "keywords": ["csv", "import", "export", "read", "write", "download"],
     "authors": [
         {
             "name": "Stanislav Dakov",
@@ -19,6 +20,5 @@
     },
     "require": {
         "php": ">=5.4.0"
-    },
-    "minimum-stability": "stable"
+    }
 }
