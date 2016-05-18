@@ -8,7 +8,7 @@ The preferred way to install this tool is through [composer](http://getcomposer.
 Either run
 
 ```
-php composer.phar require --prefer-dist stdakov/csv "*"
+php composer.phar require stdakov/csv:dev-master
 ```
 
 or add
